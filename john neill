@@ -1,0 +1,5 @@
+name = input("Enter student name: ")
+attendance = input("Present or Absent? ")
+
+print("Student:", name)
+print("Attendance:", attendance)
